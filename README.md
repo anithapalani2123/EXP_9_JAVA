@@ -16,7 +16,7 @@ IntelliJ IDEA COMMUNITY EDITION
 6) The program will be executed after the compilation and results are printed.
 
 ## PROGRAM:
-
+```
 java
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -38,7 +38,7 @@ public class Main {
     }
 }
 
-
+```
 ## OUTPUT:
 ![image](https://github.com/Monisha-11/EXP-9--JAVA/assets/93427240/05792877-ae53-4241-848a-61580e0fa699)
 
